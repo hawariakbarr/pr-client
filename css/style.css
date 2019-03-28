@@ -1,0 +1,17 @@
+.bg-navbar {
+    /* background-color: aqua; */
+    color: white
+}
+
+.minw {
+    min-width: 10px;
+}
+
+.icon-1 {
+    width:16px;
+    height:16px;
+}
+
+.hover-shadow:hover {
+    text-shadow: black;
+}
